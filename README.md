@@ -1,2 +1,3 @@
 # Music-Player-using-JavaFx-Desktop-App-
 A simple music player made using Java FX that can play music and tracks within a desktop. JavaFX is a java library for designing, creating, testing and deploying cross platform GUI applications. It is intended to replace Swing as the standard GUI library for Java. The applications composed utilizing this library can run reliably over different stages. The applications created utilizing JavaFX can keep running on different gadgets. This application uses mp3agic and jfoenix libraries.
+![Screenshot from 2022-03-11 18-19-08](https://user-images.githubusercontent.com/61195602/157897612-bef1965b-f3bd-4e0b-9f73-2d35d9ff59d2.png)
